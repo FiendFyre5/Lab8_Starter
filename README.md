@@ -4,3 +4,6 @@
 Within a Github action that runs whenever code is pushed : so that there's constant testing and makes sure that everyone has the same
 testing standards so that we don't miss any cases.
 
+2) Would you use an end to end test to check if a function is returning the correct output? (yes/no) No
+3) 
+
